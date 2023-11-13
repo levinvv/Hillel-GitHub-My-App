@@ -3,6 +3,6 @@ package app;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("\nThis is shop-online app.");
+        System.out.println("\nShop-online for customers.");
     }
 }
